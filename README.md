@@ -1,2 +1,4 @@
 # SocialLane
-Welcome to SocialLane! This project showcases our Social Media Marketing Agency's online presence. Crafted with ❤️ and styled with Vanilla CSS.
+Welcome to the SocialLane project! 
+This showcases our Social Media Marketing Agency's online presence. 
+Built with Vanilla CSS for a streamlined user experience.
