@@ -502,14 +502,26 @@ button:hover{
     transition: 0.15s;
     transform: scale(1.08);
 }
-footer {
+footer{
+    height: 75px;
+    color: #FDFCE9;
     text-align: center;
-    padding: 5px 0;
-    background-color: #1d1d1d;
-    bottom: 0;
-    width: 100%;
-    color: white;
-  }
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: monospace;
+}
+footer p{
+    margin: 0.55rem 0;
+}
+
+.footerLink{
+    font-size: 0.6rem;
+}
+.footerLink a{
+    text-decoration: none;
+    color: #69c1ff;
+}
 @media screen and (max-width: 800px){
     .footerInfo{
         padding: 5rem 5rem;
